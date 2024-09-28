@@ -1,3 +1,13 @@
+# Bigscreen BeyMod ClearMod merge
+
+## V1-Glax
+
+Versions 1-3 are Lenrui's original work. V1-Glax Contains the files for a merge of the Bigscreen Beyond Frontshell ([CC Attribution](https://sketchfab.com/3d-models/bigscreen-beyond-official-cad-data-07b61fc9c1a44662a935b23f88d9f97a)) and the V1 mount.#
+However the additional mounting options (f.e. for the Babbel mod) have been removed.
+You still need to print the Eyerings from other versions.
+
+# *Original Readme*
+
 # Bigscreen BeyMod
 ## My Mount Attachments for Bigscreen Beyond.
 this is not a guide but for build reference to EyetrackVR Documentation for the beyond. If you need help, please read the EyetrackVR documentation and ask me once you've fully understand what you are about to get yours working.
